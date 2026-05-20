@@ -6,6 +6,10 @@ A full-stack expense tracking application that helps you manage your finances, t
 
 [View Live App on Loom] (https://www.loom.com/share/8efc749723ec4a349234c432c7192e81)
 
+## 🗄️ Database
+
+This project uses **MongoDB** with **Mongoose** ODM. During development, data is stored locally using MongoDB Compass. For production, it can be easily migrated to MongoDB Atlas.
+
 ## ✨ Features
 
 - ✅ **User Authentication** – Secure registration and login with JWT tokens
